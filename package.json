@@ -81,7 +81,7 @@
     "wrench": "1.5.4",
     "yeoman-generator": "0.17.7",
     "q": "0.9.7",
-    "chalk": "0.3.0",
+    "chalk": "1.0.0",
     "generator-steroids": "1.0.18",
     "js-yaml": "3.0.2",
     "express-json": "1.0.0",
